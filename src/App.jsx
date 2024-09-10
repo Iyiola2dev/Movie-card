@@ -48,7 +48,7 @@ const App = () => {
       <div className="text-center mt-4">
         <button
           onClick={handleAddMovie}
-          className="bg-green-500 text-white py-2 px-6 rounded-lg shadow-md hover:bg-green-700 transition-colors"
+          className="bg-gray-500 text-white py-2 px-6 rounded-lg shadow-md hover:bg-gray-700 transition-colors"
         >
           Add Movie
         </button>
